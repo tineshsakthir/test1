@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "city": "New York"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "city": "London"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "city": "Paris"
+    }
+  ]
+}
